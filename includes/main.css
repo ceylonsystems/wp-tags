@@ -1,0 +1,14 @@
+.cstags-tagmap{list-style: none !important; margin: 0;padding: 0;overflow: hidden;}
+.cstags-tagmap li{float: left;list-style: none !important;margin: 0 !important;}
+.cstags-tagmap li a:link {color: #989a9b;text-decoration: none;}
+.cstags-tagmap li a:visited {color: #989a9b;text-decoration: none;}
+.cstags-tagmap li a:hover {color: #fff;text-decoration: none;background-color: #ff93a5;}
+.cstags-tagmap a {font-size: 12px;font-family: "Verb", Arial, Helvetica, sans-serif;line-height: 20px;text-align: center;display: block;margin-right: 2px;width: 17px;height: 19px;float: left;border: solid 1px #f6f5f5;background-color: #ffffff;}
+.cstags-tagline {color: #adaeaf;font-size: 15px;margin-bottom: 8px;text-transform: uppercase;font-weight: 400;}
+.cstags-tagline em{color: #989a9b;font-family: "Verb", Arial, Helvetica, sans-serif;font-style: normal;margin-left: 10px;float: right;}
+.cstags-tagline em a{color: #989a9b;font-size: 11px;}
+.cstags-header{font-size: 20px;color: #76cdd3;font-weight: 400; outline: none;}
+
+ul.cstags-tags{margin: 0;padding: 0;margin-bottom: 15px;list-style: none !important;color: #6b6963;font-size: 13px;line-height: 21px;overflow: hidden;-moz-column-count: 3;-moz-column-gap: 15px;-webkit-column-count: 3;-webkit-column-gap: 15px;column-count: 3;column-gap: 15px;}
+ul.cstags-tags li{margin: 0 0 3px 10px;padding: 0;list-style: none !important;}
+ul.cstags-tags li:before{color: #4abec0;font: 5px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;content: '\2022';margin: 0 6px 0 -10px;font-size: 15px;}
